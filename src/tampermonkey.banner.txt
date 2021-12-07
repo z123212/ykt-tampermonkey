@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         学堂云自动刷课
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       YongGer
+// @include        http*://changjiang.yuketang.cn/v2/web/studentLog/*
+// @include        http*://changjiang.yuketang.cn/v2/web/xcloud/video-student/*
+// @grant        unsafeWindow
+// @grant window.onurlchange
+// @grant GM_setValue
+// @grant GM_getValue
+// @grant window.close
+// @grant GM_addValueChangeListener
+// ==/UserScript==
+
